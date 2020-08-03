@@ -42,3 +42,6 @@ https://www.youtube.com/watch?v=kE_t3Mm8Z50
 
 Customer Churn Prediction, Segmentation and Fraud Detection in Telecommunication Industry
 https://www.youtube.com/watch?v=lLZNQZnmRho
+
+How Machine Learning Can Help with Customer Retention
+https://towardsdatascience.com/how-machine-learning-can-help-with-customer-retention-6b5bf654e822
