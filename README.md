@@ -22,7 +22,7 @@ The dataset includes information about:
 3. Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 4. Demographic info about customers – gender, age range, and if they have partners and dependents
 
-### Links 
+### Links related to churn
 
 Can You Predict Customer Churn ? 
 https://www.youtube.com/watch?v=ocMd2loRfWE
