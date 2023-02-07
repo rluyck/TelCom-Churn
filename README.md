@@ -1,5 +1,9 @@
 # Telco Customer Churn
 
+### Notebook
+
+[My notebook](https://github.com/rluyck/TelCom-Churn/blob/master/telco-customer-churn-eda-model-and-top-20.ipynb)
+
 ### Sources
 
 https://github.com/IBM/telco-customer-churn-on-icp4d (up to date)<br>
